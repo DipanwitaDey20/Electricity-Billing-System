@@ -59,7 +59,7 @@ Java communicates with MySQL tables using JDBC which stands for Java Database Co
 
 ## Main Page
 
-<img src="https://github.com/dipanwitadey1998/Electricity_Billing_System/blob/main/ScreenShots/Main.JPG" width="600" height="500">
+<img src="https://github.com/dipanwitadey1998/Electricity-Billing-System/blob/main/ScreenShots/Main.JPG" width="600" height="500">
 
 ## Add Customer
 
@@ -76,4 +76,4 @@ Java communicates with MySQL tables using JDBC which stands for Java Database Co
 
 ## Generate Bill
 
-<img src="https://github.com/Adarsh9616/Electricity_Billing_System/master/master/ScreenShots/GenerateBill.JPG" width="400" height="700">
+<img src="https://github.com/dipanwitadey1998/Electricity-Billing-System/blob/main/ScreenShots/GenerateBill.JPG" width="400" height="700">
